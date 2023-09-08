@@ -1,7 +1,7 @@
 # ISEC6000-Secure-DevOps Assignment 1
 
 Welcome to the repository for the secure devops assignment 1
-This repository has inforamtion about the tasks executed for Secure DevOps Assignment 1. 
+This repository has information about the tasks executed for Secure DevOps Assignment 1. 
 
 ## Highlights:
 
